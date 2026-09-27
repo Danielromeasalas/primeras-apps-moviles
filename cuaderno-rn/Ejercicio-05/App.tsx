@@ -1,5 +1,4 @@
-
-import { View, Text, Image, Pressable, StyleSheet} from 'react-native';
+import { Pressable, StyleSheet, Text,Image, View } from 'react-native';
 
 export default function App() {
   return (
