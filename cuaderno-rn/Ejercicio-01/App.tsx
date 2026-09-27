@@ -8,6 +8,9 @@ export default function App() {
       <Text style={styles.subtitle}>Mi primera pantalla</Text>
       <StatusBar style="auto" />
     </View>
+
+
+
   );
 }
 
